@@ -44,3 +44,6 @@ This will execute the strategy on the dataset and display key performance metric
 - Candlestick Chart: Displays price action with session levels.
 - Portfolio Growth Chart: Shows cumulative profits over time.
 - Sharpe Ratio: Measures risk-adjusted returns.
+
+![newplot](https://github.com/user-attachments/assets/904d1bf6-f0d8-45f9-955f-2e98d8030a3d)
+
